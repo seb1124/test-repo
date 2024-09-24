@@ -1,0 +1,12 @@
+/* Contact Section */
+ .lead a{
+   text-decoration: none;
+   color: black;
+ }
+ .lead a:hover{
+   text-decoration: underline;
+   opacity: 0.7;
+ }
+ .lead {
+   margin: .75rem;
+ }
